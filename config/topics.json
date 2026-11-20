@@ -1,0 +1,42 @@
+[
+  {
+    "id": "models",
+    "label": "Models and releases"
+  },
+  {
+    "id": "agents",
+    "label": "AI agents and automation"
+  },
+  {
+    "id": "developer_tools",
+    "label": "AI coding and developer tools"
+  },
+  {
+    "id": "products",
+    "label": "AI tools and products"
+  },
+  {
+    "id": "research",
+    "label": "Research and breakthroughs"
+  },
+  {
+    "id": "business",
+    "label": "AI business and industry"
+  },
+  {
+    "id": "policy",
+    "label": "Policy and regulation"
+  },
+  {
+    "id": "safety",
+    "label": "Safety and security"
+  },
+  {
+    "id": "society",
+    "label": "AI and society"
+  },
+  {
+    "id": "open_source",
+    "label": "Open source AI"
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "name": "OpenAI",
+    "slug": "openai",
+    "homepageUrl": "https://openai.com/news/",
+    "feedUrl": "https://openai.com/news/rss.xml",
+    "tier": "lab",
+    "enabled": true,
+    "coverage": [
+      "models",
+      "research",
+      "policy",
+      "safety"
+    ],
+    "checkedOn": "2026-11-20"
+  },
+  {
+    "name": "Anthropic",
+    "slug": "anthropic",
+    "homepageUrl": "https://www.anthropic.com/news",
+    "feedUrl": null,
+    "tier": "lab",
+    "enabled": false,
+    "coverage": [],
+    "checkedOn": "2026-11-20"
+  },
+  {
+    "name": "Google DeepMind",
+    "slug": "google-deepmind",
+    "homepageUrl": "https://deepmind.google/discover/blog/",
+    "feedUrl": "https://deepmind.google/blog/rss.xml",
+    "tier": "lab",
+    "enabled": true,
+    "coverage": [
+      "models",
+      "research",
+      "safety"
+    ],
+    "checkedOn": "2026-11-20"
+  },
+  {
+    "name": "Meta AI",
+    "slug": "meta-ai",
+    "homepageUrl": "https://ai.meta.com/blog/",
+    "feedUrl": null,
+    "tier": "lab",
+    "enabled": false,
+    "coverage": [],
+    "checkedOn": "2026-11-20"
+  },
+  {
+    "name": "Hugging Face Blog",
+    "slug": "hugging-face-blog",
+    "homepageUrl": "https://huggingface.co/blog",
+    "feedUrl": "https://huggingface.co/blog/feed.xml",
+    "tier": "lab",
+    "enabled": true,
+    "coverage": [
+      "models",
+      "developer_tools",
+      "research",
+      "open_source"
+    ],
+    "checkedOn": "2026-11-20"
+  },
+  {
+    "name": "Simon Willison",
+    "slug": "simon-willison",
+    "homepageUrl": "https://simonwillison.net/",
+    "feedUrl": "https://simonwillison.net/atom/everything/",
+    "tier": "curator",
+    "enabled": true,
+    "coverage": [
+      "agents",
+      "developer_tools",
+      "open_source",
+      "safety"
+    ],
+    "checkedOn": "2026-11-20"
+  },
+  {
+    "name": "Import AI",
+    "slug": "import-ai",
+    "homepageUrl": "https://importai.substack.com/",
+    "feedUrl": "https://importai.substack.com/feed",
+    "tier": "curator",
+    "enabled": true,
+    "coverage": [
+      "research",
+      "policy",
+      "safety"
+    ],
+    "checkedOn": "2026-11-20"
+  },
+  {
+    "name": "Hugging Face Daily Papers",
+    "slug": "hugging-face-daily-papers",
+    "homepageUrl": "https://huggingface.co/papers",
+    "feedUrl": null,
+    "tier": "curator",
+    "enabled": false,
+    "coverage": [],
+    "checkedOn": "2026-11-20"
+  },
+  {
+    "name": "Ars Technica",
+    "slug": "ars-technica",
+    "homepageUrl": "https://arstechnica.com/ai/",
+    "feedUrl": "https://arstechnica.com/ai/feed/",
+    "tier": "news",
+    "enabled": true,
+    "coverage": [
+      "models",
+      "business",
+      "policy",
+      "society"
+    ],
+    "checkedOn": "2026-11-20"
+  },
+  {
+    "name": "The Verge",
+    "slug": "the-verge",
+    "homepageUrl": "https://www.theverge.com/",
+    "feedUrl": "https://www.theverge.com/rss/index.xml",
+    "tier": "news",
+    "enabled": true,
+    "coverage": [
+      "products",
+      "business",
+      "policy",
+      "society"
+    ],
+    "checkedOn": "2026-11-20"
+  },
+  {
+    "name": "MIT Technology Review",
+    "slug": "mit-technology-review",
+    "homepageUrl": "https://www.technologyreview.com/",
+    "feedUrl": "https://www.technologyreview.com/feed/",
+    "tier": "news",
+    "enabled": true,
+    "coverage": [
+      "research",
+      "safety",
+      "society"
+    ],
+    "checkedOn": "2026-11-20"
+  },
+  {
+    "name": "TechCrunch AI",
+    "slug": "techcrunch-ai",
+    "homepageUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "feedUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "tier": "news",
+    "enabled": false,
+    "coverage": [],
+    "checkedOn": "2026-11-20"
+  },
+  {
+    "name": "The Decoder",
+    "slug": "the-decoder",
+    "homepageUrl": "https://the-decoder.com/",
+    "feedUrl": "https://the-decoder.com/feed/",
+    "tier": "news",
+    "enabled": false,
+    "coverage": [],
+    "checkedOn": "2026-11-20"
+  },
+  {
+    "name": "WIRED",
+    "slug": "wired",
+    "homepageUrl": "https://www.wired.com/tag/ai/",
+    "feedUrl": "https://www.wired.com/feed/tag/ai/latest/rss",
+    "tier": "news",
+    "enabled": true,
+    "coverage": [
+      "business",
+      "policy",
+      "safety",
+      "society"
+    ],
+    "checkedOn": "2026-11-20"
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "strongSignals": [
+    "artificial intelligence",
+    "large language model",
+    "generative AI",
+    "machine learning",
+    "AI agent"
+  ],
+  "topicSignals": {
+    "models": [
+      "model release",
+      "benchmark"
+    ],
+    "agents": [
+      "AI agent",
+      "workflow automation"
+    ],
+    "developer_tools": [
+      "coding assistant",
+      "developer API"
+    ],
+    "products": [
+      "AI product",
+      "product launch"
+    ],
+    "research": [
+      "research paper",
+      "machine learning research"
+    ],
+    "business": [
+      "funding",
+      "partnership"
+    ],
+    "policy": [
+      "AI regulation",
+      "AI law"
+    ],
+    "safety": [
+      "AI safety",
+      "AI security"
+    ],
+    "society": [
+      "AI in education",
+      "AI and jobs"
+    ],
+    "open_source": [
+      "open weights",
+      "open source model"
+    ]
+  }
+}

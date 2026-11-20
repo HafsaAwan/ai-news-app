@@ -1,0 +1,68 @@
+[
+  {
+    "domain": "openai.com",
+    "classification": "free",
+    "evidence": "https://openai.com/news/",
+    "checkedOn": "2026-11-20"
+  },
+  {
+    "domain": "deepmind.google",
+    "classification": "free",
+    "evidence": "https://deepmind.google/discover/blog/",
+    "checkedOn": "2026-11-20"
+  },
+  {
+    "domain": "huggingface.co",
+    "classification": "free",
+    "evidence": "https://huggingface.co/blog",
+    "checkedOn": "2026-11-20"
+  },
+  {
+    "domain": "simonwillison.net",
+    "classification": "free",
+    "evidence": "https://simonwillison.net/",
+    "checkedOn": "2026-11-20"
+  },
+  {
+    "domain": "importai.substack.com",
+    "classification": "free",
+    "evidence": "https://importai.substack.com/",
+    "checkedOn": "2026-11-20"
+  },
+  {
+    "domain": "arstechnica.com",
+    "classification": "free",
+    "evidence": "https://arstechnica.com/ars-subscription-faq/",
+    "checkedOn": "2026-11-20"
+  },
+  {
+    "domain": "theverge.com",
+    "classification": "paywalled",
+    "evidence": "https://www.theverge.com/subscribe",
+    "checkedOn": "2026-11-20"
+  },
+  {
+    "domain": "technologyreview.com",
+    "classification": "paywalled",
+    "evidence": "https://forms.technologyreview.com/group-subscriptions/",
+    "checkedOn": "2026-11-20"
+  },
+  {
+    "domain": "techcrunch.com",
+    "classification": "free",
+    "evidence": "https://techcrunch.com/subscribe/",
+    "checkedOn": "2026-11-20"
+  },
+  {
+    "domain": "the-decoder.com",
+    "classification": "paywalled",
+    "evidence": "https://the-decoder.com/subscription/",
+    "checkedOn": "2026-11-20"
+  },
+  {
+    "domain": "wired.com",
+    "classification": "metered",
+    "evidence": "https://www.wired.com/about/faq/",
+    "checkedOn": "2026-11-20"
+  }
+]
